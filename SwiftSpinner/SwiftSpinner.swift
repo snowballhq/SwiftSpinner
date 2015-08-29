@@ -312,7 +312,7 @@ public class SwiftSpinner: UIView {
     // layout elements
     //
     
-    private var blurEffectStyle: UIBlurEffectStyle = .Dark
+    private var blurEffectStyle: UIBlurEffectStyle = .ExtraLight
     private var blurEffect: UIBlurEffect!
     private var blurView: UIVisualEffectView!
     private var vibrancyView: UIVisualEffectView!
